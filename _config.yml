@@ -1,1 +1,10 @@
 remote_theme: pmarsceill/just-the-docs
+search_enabled: true
+
+# Aux links for the upper right navigation
+aux_links:
+  "Draft for the Future on Sleeper":
+    - "https://sleeper.app/leagues/693558305020289024"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
