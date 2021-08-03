@@ -9,16 +9,24 @@ nav_order: 2
 This is a SuperFlex, TE Premium League. [What?](https://yardsperfantasy.com/superflex-tight-end-premium-fantasy-football-rankings-value/)
 
 ## Active Roster
-### 30 players, 10 lineup spots and 20 bench spots
+### 30 players:  10 starters, 20 bench
+#### Starters
   - QB (1)
   - RB (2)
   - WR (3)
   - TE (1)
   - SuperFlex [QB/WR/RB/TE] (1)
   - Flex [WR/RB/TE] (2)
+#### Bench
   - Bench (20)
 
+#### Injured Reserve
+  - IR (4)
+    - Only players designated `IR` on Sleeper can be placed on IR.
+
 ## Taxi Squad
+### Up to 20 players (Zero until 2022 draft)
+
 A Taxi squad gives teams extra roster space to keep developing players. Taxi squads can be handled many different ways so this section will clearly spell out the details of the taxi squad for this league.
 
 The 20 player taxi squad in this league is designed to increase the value of rookie picks (especially rounds 3-5) by allowing you to keep the players you draft for up to two years before they need to be moved to your active roster.
