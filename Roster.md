@@ -9,20 +9,20 @@ nav_order: 2
 This is a SuperFlex, TE Premium League. [What?](https://yardsperfantasy.com/superflex-tight-end-premium-fantasy-football-rankings-value/)
 
 ## Active Roster
-### 30 players:  10 starters, 20 bench
-#### Starters
-  - QB (1)
-  - RB (2)
-  - WR (3)
-  - TE (1)
-  - SuperFlex [QB/WR/RB/TE] (1)
-  - Flex [WR/RB/TE] (2)
-#### Bench
-  - Bench (20)
+### 30 players
 
-#### Injured Reserve
-  - IR (4)
-    - Only players designated `IR` on Sleeper can be placed on IR.
+| Position| Quantity |
+|:-------------|:------------------|
+| **QB** | 1 |
+| **RB** | 2 |
+| **WR** | 3 |
+| **TE** | 1 |
+| **SuperFlex** QB/WR/RB/TE | 1 |
+| **Flex** WR/RB/TE | 2 |
+| **Bench** | 20 |
+| **IR** | 4 |
+
+>Only players designated `IR` on Sleeper can be placed on IR.
 
 ## Taxi Squad
 ### Up to 20 players (Zero until 2022 draft)
