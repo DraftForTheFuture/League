@@ -11,18 +11,9 @@ nav_order: 5
 - $50 per year per team
 - At startup each team pays the first two years of dues ($100)
 - Each subsequent year each team pays $50 for the next year
+  - Keeping all teams paid one year in advance will make it easier to find replacement managers if necessary.
 - If a manager leaves the league they forfeit their league dues and any stake in future winnings
   - Any league dues forfeited will go towards the dues owed by the replacement manager
-
-### Example
-
-| Dues owed by each team  | Dues used for |
-|:-------------|:------------------|
-| $100 in 2021 at startup | Pays $50 for 2021 and $50 for 2022 |
-| $50 in 2022 before rookie draft | Pays for 2023 season |
-| $50 in 2023 before rookie draft | Pays for 2024 season |
-
-Keeping all teams paid one year in advance will make it easier to find replacement managers if necessary.
 
 ## Payouts
 
@@ -36,8 +27,14 @@ All league dues for a given year (12 teams * $50 = $600) will be paid out as fol
 
 ## Money Vault
 
-The safest way to collect and payout money is a league vault. This league is using [Team Stake](https://teamstake.com/), though we can change in the future as necessary.
+The safest way to collect and payout money is a league vault. This league is using [TeamStake](https://teamstake.com/), though we can change in the future as necessary.
 
-- Team Stake has [several options](https://teamstake.com/home/faq_detail/4) for payments and payouts
+- TeamStake has [several options](https://teamstake.com/home/faq_detail/4) for payments and payouts
+- There is a separate TeamStake League for each NFL season (links below)
 - Payouts will be assigned by the commissioner but will require a majority vote from league members to confirm that the money is being paid out correctly.
 
+| Dues owed by each team  | Dues used for | TeamStake Link |
+|:-------------|:------------------|:------------------|
+| $100 in 2021 at startup | Pays $50 for 2021 and $50 for 2022 | [2021 TeamStake Link](https://teamstake.com/league/league_detail/10/0/6529) & [2022 TeamStake Link](https://teamstake.com/league/league_detail/10/0/6530) |
+| $50 in 2022 before rookie draft | Pays for 2023 season | [2023 TeamStake Link](https://teamstake.com/league/league_detail/10/0/6541) |
+| $50 in 2023 before rookie draft | Pays for 2024 season | TeamStake Link available in 2023 |
