@@ -35,6 +35,10 @@ The safest way to collect and payout money is a league vault. This league is usi
 
 | Dues owed by each team  | Dues used for | TeamStake Link |
 |:-------------|:------------------|:------------------|
-| $100 in 2021 at startup | Pays $50 for 2021 and $50 for 2022 | [2021 TeamStake Link](https://teamstake.com/league/league_detail/10/0/6529) & [2022 TeamStake Link](https://teamstake.com/league/league_detail/10/0/6530) |
-| $50 in 2022 before rookie draft | Pays for 2023 season | [2023 TeamStake Link](https://teamstake.com/league/league_detail/10/0/6541) |
+| $100 in 2021 at startup | Pays $50 for 2021 and $50 for 2022 | <a href="https://teamstake.com/league/league_detail/10/0/6529" target="_blank">2021 TeamStake League</a> & <a href="https://teamstake.com/league/league_detail/10/0/6530" target="_blank">2022 TeamStake League</a> |
+| $50 in 2022 before rookie draft | Pays for 2023 season | <a href="https://teamstake.com/league/league_detail/10/0/6541" target="_blank">2023 TeamStake League</a> |
 | $50 in 2023 before rookie draft | Pays for 2024 season | TeamStake Link available in 2023 |
+
+
+
+
