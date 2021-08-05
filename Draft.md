@@ -37,6 +37,7 @@ nav_order: 5
         | 3 | 10 |
         | 2 | 11 |
         | 1 (Champion) | 12 |
+        
         > This is reverse order of playoff finish EXCEPT for the 5th and 6th place teams. The winner of the 5th/6th place playoff game will get the higher draft pick (gives something to play for in that game).
 
  - Rookie draft will start approximately 3 weeks after the NFL Draft, or we can vote to start it earlier or later.
