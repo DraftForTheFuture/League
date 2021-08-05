@@ -25,7 +25,7 @@ All league dues for a given year (12 teams * $50 = $600) will be paid out as fol
 | Second Place | $150 |
 | Third Place | $50 |
 
-## Money Vault
+## TeamStake League Vault
 
 The safest way to collect and payout money is a league vault. This league is using [TeamStake](https://teamstake.com/), though we can change in the future as necessary.
 
