@@ -15,7 +15,8 @@ nav_order: 5
   - Any league dues forfeited will go towards the dues owed by the replacement manager
 
 ### Example
-| Dues paid by one team  |  |
+
+| Dues owed by each team  | Dues used for |
 |:-------------|:------------------|
 | $100 in 2021 at startup | Pays $50 for 2021 and $50 for 2022 |
 | $50 in 2022 before rookie draft | Pays for 2023 season |
