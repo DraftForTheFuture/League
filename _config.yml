@@ -1,5 +1,6 @@
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
+title: "Draft for the Future"
 
 # Aux links for the upper right navigation
 aux_links:
