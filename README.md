@@ -8,6 +8,10 @@ This is a deep dynasty league, designed to encourage trading and building your t
 
 Check out the rules on the left, or under the hamburger menu on mobile: ![hamburger](/assets/hamburger.jpg)
 
-If you love playing fantasy football and want to build a dynasty team over the next 20+ years then you've come to the right place (no sports almanacs from the future allowed). 
+
+If you love playing fantasy football and want to build a dynasty team over the next 20+ years then you've come to the right place (no sports almanacs from the future allowed).
+
+[Click here to access this league on Sleeper](https://sleeper.app/i/mXR7eEG9DDRE)
+
 
 ![DocBrown](/assets/docbrown.gif)
