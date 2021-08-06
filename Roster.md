@@ -43,7 +43,7 @@ The 20 player taxi squad in this league is designed to increase the value of roo
 4. **Taxi Squad starts with 2022 draft**
    - There will be no taxi squad for the 2021 initial season.
      - This is to avoid issues with players trying to load their taxi squads in the startup draft. The large taxi squad it meant to allow teams to build through the rookie draft in subsequent seasons.
-   - When the 2022 draft begins each team will 
+   - The Taxi squad will be increased from 0 to 20 for the 2022 season and beyond. 
 5. **Taxi squad size**
    - 2021: 0
    - 2022 and beyond: 20
