@@ -6,7 +6,7 @@ nav_order: 3
 
 # Scoring
 
-This is a PPR SuperFlex TE Premium League. [What?](https://yardsperfantasy.com/superflex-tight-end-premium-fantasy-football-rankings-value/)
+This is a 12 team PPR SuperFlex TE Premium League. [What?](https://yardsperfantasy.com/superflex-tight-end-premium-fantasy-football-rankings-value/)
 
 These scoring settings are reflected in the Sleeper League Settings.
 
