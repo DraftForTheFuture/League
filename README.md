@@ -12,7 +12,7 @@ This is a deep dynasty league, designed to encourage trading and building your t
   - [Scoring Details](Scoring.md)
 - $100 initial buy-in ($50 per year, pay for first two to join)
   - [Money Details](Finance.md)
-- 30 round startup draft (all players)
+- 30 round startup slow draft (all players)
   - [Draft Details](Draft.md)
 
 For more details check out the links on the left, or under the hamburger menu on mobile: ![hamburger](/assets/hamburger.jpg)
