@@ -6,7 +6,7 @@ nav_order: 1
 ---
 # Doc Brown's 2021 Startup Draft Review 
 
-I'd like to welcome everyone to the 2021 season and kick off with a quick draft review post. I've just come back from the year 2041 and want to share some of my favorite picks from this draft and let you know which year these players are going to have their best seasons.
+I'd like to welcome everyone to the 2021 season and kick off with a quick draft review post. I've just come back from the year 2041 and want to share some of my favorite picks from this draft and let you know when these players are going to have their best seasons.
 
 
 
