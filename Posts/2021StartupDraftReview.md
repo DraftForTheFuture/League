@@ -1,7 +1,8 @@
 ---
 layout: default
 title: 2021 Startup Draft Review
-nav_order: 6
+parent: Posts
+nav_order: 1
 ---
 # Doc Brown's 2021 Startup Draft Review 
 
