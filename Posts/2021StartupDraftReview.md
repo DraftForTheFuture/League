@@ -90,7 +90,7 @@ Best year: 2022
 ### **Marquez Callaway**
 Best year: 2021
 
-**Mad Dog** was ahead of the curve scooping up Callaway before it became popular later in draft season. Callaway finishes at WR9 in 2021 and goes on to lead Sean Payton's wide receiving core for the next 6 years.
+**Mad Dog** was ahead of the curve scooping up Callaway before it became popular later in draft season. Callaway finishes at WR9 in 2021 and goes on to lead Sean Payton's wide receiving corps for the next 6 years.
 
 ## Round 14
 
