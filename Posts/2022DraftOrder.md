@@ -6,7 +6,7 @@ nav_order: 1
 ---
 # 2022 Draft Order
 
-> Please see [Draft Details](Draft.md) for how draft order is determined.
+> Please see [Draft Details](https://draftforthefuture.github.io/League/Draft.html#draft-order) for how draft order is determined.
 
 | Draft Order | Team | Max PF (per Sleeper Standings on 12/15/2021) |
 |:-------------|:------------------|:------------------|
