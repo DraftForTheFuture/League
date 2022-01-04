@@ -16,18 +16,9 @@ nav_order: 1
 | 4 | DocBrown | 2154.58 |
 | 5 | OUTATIME(OUTS) | 2189.72 |
 | 6 | Frap's Addiction | 2311.88 |
-
--------
-
-#### **Playoff Teams TBD: Picks 7-12**
-
-| Playoff Finish | Draft Pick Slot |
-|:-------------|:------------------|
-| 5 | 7 |
-| 6 | 8 |
-| 4 | 9 |
-| 3 | 10 |
-| 2 | 11 |
-| 1 (Champion) | 12 |
-
-> This is reverse order of playoff finish EXCEPT for the 5th and 6th place teams. The winner of the 5th/6th place playoff game will get the higher draft pick (gives something to play for in that game).
+| 7 | Buford "Mad Dog" Tannen |  |
+| 8 | Griff Tannen Gang |  |
+| 9 | GetYourDamnHandsOffErtz |  |
+| 10 | GreatScot my McFly is opn |  |
+| 11 | Enchantment Under The Sea |  |
+| 12 | 4th Dimension |  |
