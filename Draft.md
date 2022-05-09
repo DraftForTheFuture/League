@@ -3,25 +3,17 @@ layout: default
 title: Draft
 nav_order: 5
 ---
-# Draft
+# Rookie Drafts
 
-
-## Startup Draft
-- 30 round snake draft
-- Slow Draft via Sleeper
-  - 8 hours per pick
-  - Draft paused overnight
-  - Auto pick after 8 hours
-- Draft order will be randomized via Sleeper when league is filled
-- Draft will start shortly after the league is filled
+This page outlines the basics. For details for a specific rookie draft see below.
+  - [2022 Rookie Draft](2022RD.md)
 
 ## Rookie Draft
  - Rookie drafts start in 2022
  - 5 round linear (non-snake) draft 
  - Slow Draft via Sleeper
-   - 8 hours per pick
-   - Draft paused overnight
-   - Auto pick after 8 hours
+   - 12 hours per pick
+   - Auto pick after 12 hours
  - Rookie draft will start approximately 3 weeks after the NFL Draft, or we can vote to start it earlier or later.
 
 ### Draft order
