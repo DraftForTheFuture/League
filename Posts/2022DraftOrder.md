@@ -2,7 +2,7 @@
 layout: default
 title: 2022 Draft Order
 parent: Posts
-nav_order: 1
+nav_order: 2
 ---
 # 2022 Draft Order
 
