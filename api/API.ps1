@@ -2,7 +2,7 @@
 
 
 ##Get the league info
-$league_id = 786392729767813120
+$league_id = 921155018147864576
 
 $LeagueObject = Invoke-RestMethod -Method Get -Uri "https://api.sleeper.app/v1/league/$league_id"
 
@@ -19,11 +19,16 @@ $Rosters = Invoke-RestMethod -Method Get -Uri "https://api.sleeper.app/v1/league
 $Users = Invoke-RestMethod -Method Get -Uri "https://api.sleeper.app/v1/league/$league_id/users"
 
 # Get 2022 rookie draft
+$2023RookieDraft = 921155018147864577
+
+
+$RookieDraftPicks = Invoke-RestMethod -Method Get -Uri "https://api.sleeper.app/v1/draft/$2023RookieDraft/picks"
+
+#Add previous picks
 $2022RookieDraft = 786392729767813121
-$RookieDraft = Invoke-RestMethod -Method Get -Uri "https://api.sleeper.app/v1/draft/$2022RookieDraft"
 
+$RookieDraftPicks += Invoke-RestMethod -Method Get -Uri "https://api.sleeper.app/v1/draft/$2022RookieDraft/picks"
 
-$RookieDraftPicks = Invoke-RestMethod -Method Get -Uri "https://api.sleeper.app/v1/draft/$2022RookieDraft/picks"
 
 
 # Get Player Info -- use only once per day
