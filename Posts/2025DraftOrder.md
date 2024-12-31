@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 2024 Draft Order
+title: 2025 Draft Order
 parent: Posts
 nav_order: 4
 ---
-# 2024 Draft Order
+# 2025 Draft Order
 
 > Please see [Draft Details](https://draftforthefuture.github.io/League/Draft.html#draft-order) for how draft order is determined.
 
