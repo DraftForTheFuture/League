@@ -1,24 +1,24 @@
 ---
 layout: default
-title: 2023 Draft Order
+title: 2024 Draft Order
 parent: Posts
-nav_order: 3
+nav_order: 4
 ---
-# 2023 Draft Order
+# 2024 Draft Order
 
 > Please see [Draft Details](https://draftforthefuture.github.io/League/Draft.html#draft-order) for how draft order is determined.
 
-| Draft Order | Team | Max PF (per Sleeper Standings on 12/13/2022) |
+| Draft Order | Team | Max PF (per Sleeper Standings on 12/15/2024) |
 |:-------------|:------------------|:------------------|
-| 1 | lucaspickle | 1780.40 |
-| 2 | Mollywoody | 1980.74 |
-| 3 | GetYourDamnHandsOffErtz | 2041.98 |
-| 4 | GreatScot my McFly is opn | 2061.72 |
-| 5 | Enchantment Under The Sea | 2153.98 |
-| 6 | Frap's Addiction | 2173.16 |
-| 7 | Bufford "Mad Dog" Tannen | |
+| 1 | lucaspickle | 1624.24 |
+| 2 | badprodigy | 1843.26 |
+| 3 | OUTATIME(OUTS) | 2090.24 |
+| 4 | Enchantment Under The Sea | 2113.00 |
+| 5 | 1.21 Gigawatts | 2205.12 |
+| 6 | Frap's Addiction | 2223.86 |
+| 7 | Gray's 2040 FF Champs | |
 | 8 | 1.21 Gigawatts |  |
-| 9 | Zero Flux Given |  |
-| 10 | 4th Dimension |  |
-| 11 | OUTATIME(OUTS) |  |
-| 12 | DocBrown | |
+| 9 | 4th Dimension |  |
+| 10 | Bufford "Mad Dog" Tannen |  |
+| 11 | Your Cousin, Marvin Berry |  |
+| 12 | GreatScot my McFly is opn | |
