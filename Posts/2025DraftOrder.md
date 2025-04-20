@@ -17,8 +17,8 @@ nav_order: 4
 | 5 | 1.21 Gigawatts | 2205.12 |
 | 6 | Frap's Addiction | 2223.86 |
 | 7 | Gray's 2040 FF Champs | |
-| 8 | 1.21 Gigawatts |  |
+| 8 | DocBrown |  |
 | 9 | 4th Dimension |  |
-| 10 | Bufford "Mad Dog" Tannen |  |
+| 10 | Buford "Mad Dog" Tannen |  |
 | 11 | Your Cousin, Marvin Berry |  |
 | 12 | GreatScot my McFly is opn | |
