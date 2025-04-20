@@ -38,4 +38,4 @@ The safest way to collect and payout money is a league vault. This league is usi
 | $50 in 2022 before rookie draft | Pays for 2023 season | <a href="https://teamstake.com/league/league_detail/10/0/6541" target="_blank">2023 TeamStake League</a> |
 | $50 in 2023 before rookie draft | Pays for 2024 season | <a href="https://teamstake.com/league/league_detail/10/0/11439" target="_blank">2024 TeamStake League</a> |
 | $50 in 2024 before rookie draft | Pays for 2025 season | <a href="https://www.leaguesafe.com/join/4197534" target="_blank">2025 League Safe League</a> |
-
+| $50 in 2025 before rookie draft | Pays for 2026 season | <a href="https://www.leaguesafe.com/join/4295424" target="_blank">2026 League Safe League</a> |
