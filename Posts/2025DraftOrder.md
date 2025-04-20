@@ -2,7 +2,7 @@
 layout: default
 title: 2025 Draft Order
 parent: Posts
-nav_order: 4
+nav_order: 5
 ---
 # 2025 Draft Order
 
