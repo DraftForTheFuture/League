@@ -27,10 +27,9 @@ All league dues for a given year (12 teams * $50 = $600) will be paid out as fol
 
 ## TeamStake League Vault
 
-The safest way to collect and payout money is a league vault. This league is using [TeamStake](https://teamstake.com/), though we can change in the future as necessary.
+The safest way to collect and payout money is a league vault. This league is now using [League Safe](https://www.leaguesafe.com/).
 
-- TeamStake has [several options](https://teamstake.com/home/faq_detail/4) for payments and payouts
-- There is a separate TeamStake League for each NFL season (links below)
+- There are separate League Safe Leagues for each NFL season (links below)
 - Payouts will be assigned by the commissioner but will require a majority vote from league members to confirm that the money is being paid out correctly.
 
 | Dues owed by each team  | Dues used for | TeamStake Link |
@@ -39,3 +38,4 @@ The safest way to collect and payout money is a league vault. This league is usi
 | $50 in 2023 before rookie draft | Pays for 2024 season | <a href="https://teamstake.com/league/league_detail/10/0/11439" target="_blank">2024 TeamStake League</a> |
 | $50 in 2024 before rookie draft | Pays for 2025 season | <a href="https://www.leaguesafe.com/join/4197534" target="_blank">2025 League Safe League</a> |
 | $50 in 2025 before rookie draft | Pays for 2026 season | <a href="https://www.leaguesafe.com/join/4295424" target="_blank">2026 League Safe League</a> |
+| $50 in 2026 before rookie draft | Pays for 2027 season | <a href="https://www.leaguesafe.com/join/4383370" target="_blank">2027 League Safe League</a> |
