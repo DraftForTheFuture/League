@@ -12,7 +12,7 @@ For details check out the links on the left, or under the hamburger menu on mobi
 
 If you love playing fantasy football and want to build a dynasty team over the next 20+ years then you've come to the right place (no sports almanacs from the future allowed).
 
-[Click here to access this league on Sleeper](https://sleeper.com/leagues/786392729767813120)
+[Click here to access this league on Sleeper](https://sleeper.com/leagues/1314032319857721344)
 
 
 ![DocBrown](/assets/docbrown.gif)
