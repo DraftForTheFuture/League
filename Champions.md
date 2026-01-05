@@ -4,6 +4,7 @@ title: League Champions
 nav_order: 6
 ---
 # League Champions
+![2025](/assets/2025Champs.jpg)
 ![2024](/assets/2024Champs.png)
 ![2023](/assets/2023Champs.jpg)
 ![2022](/assets/2022Champs.jpg)
